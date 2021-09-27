@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.video-Section {
+  margin-top: 10%;
+}
+
+h2 {
+  font-size: 50%;
+  margin-bottom: 30%;
+}
+
+.Headding {
+  font-size: 30px;
+  margin-bottom: 5px;
+  margin-top: 30px;
+  margin-left: 23px;
+}
+
+.Payment-Bytes {
+  display: flex;
+  width: auto;
+}
+
+.Payment-Bytes .videos {
+  margin: 5px;
+  margin-bottom: 5px;
+  width: 400px;
+  height: 200px;
+  justify-content: center;
+  padding: 20px;
+}
+
+img {
+  border: 3px;
+  border-style: solid;
+  border-color: black;
+}
+
+.bigFont {
+  font-size: 25px;
+}
+
+.addVideo {
+  text-align: center;
+}
+
+.video_player {
+  text-align: center;
+}
+
+.HTMLVideoPlayer {
+  text-align: center;
+}
